@@ -1,1 +1,1 @@
-# Crowdfunding_ETL
+The project involves building an ETL pipeline with Python, Pandas, and either dictionary methods or regular expressions. Extract data from Excel files, transform it, and load into CSVs. Collaborate effectively, divide tasks, create an ERD and table schema, and upload data into a Postgres database.
